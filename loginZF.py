@@ -47,3 +47,6 @@ findname = s.post("http://202.119.225.34/default2.aspx", data=data)
 #find name
 name = re.findall('<span id="xhxm">(.*?)</span>', findname.text)[0]
 print(name)
+
+
+# qqq
