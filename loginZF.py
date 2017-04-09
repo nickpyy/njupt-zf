@@ -32,8 +32,8 @@ code = input("input code:")
 #构造请求数据
 data = {
     '__VIEWSTATE': viewstate,
-    'txtUserName': 'B14150227',
-    'TextBox2': 'anlei1996+',
+    'txtUserName': 'username',
+    'TextBox2': 'password',
     'txtSecretCode': code,
     'RadioButtonList1': '\321\247\311\372',
     'Button1': '',
